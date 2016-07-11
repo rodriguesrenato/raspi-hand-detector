@@ -1,0 +1,6 @@
+Comando para enviar arquivos para o Raspberry Pi
+scp * pi@192.168.1.43:tg3
+
+SSH com interface gráfica para rodar o código no Raspberry pi e ter acesso as janelas criadas pelo OpenCV
+ssh -Y pi@192.168.1.43
+
