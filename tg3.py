@@ -3,6 +3,7 @@
 #Universidade Federal do ABC
 #Engenharia de Instrumentacao, automacao e robotica
 #Trabalho de Graduacao
+#Orientador: Prof. Dr. Luiz Antonio Celiberto Junior
 
 import argparse
 # import imutils
